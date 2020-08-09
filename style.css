@@ -1,0 +1,16 @@
+.fieldset{
+    border-radius: 2em;
+    text-align: justify;
+}
+#result{
+    text-align: center;
+    margin:auto;
+    display:block;
+    background-color: red;
+    
+}
+
+.h1{
+   font-size: auto;
+   margin-left: 800px;
+}
